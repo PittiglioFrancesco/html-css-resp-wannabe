@@ -72,4 +72,14 @@ img {
   clear: both;
 }
 
+/* mobile  ready part */
 
+@media screen and (max-width: 420px){
+
+  #lezioni .row>.left,
+  #lezioni .row>.right{
+    float: none;
+    margin: 0 25%;
+  }
+
+}
