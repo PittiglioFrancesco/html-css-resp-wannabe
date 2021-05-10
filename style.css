@@ -80,6 +80,19 @@ img {
   #lezioni .row>.right{
     float: none;
     margin: 0 25%;
+    font-size: 30px;
+    margin-bottom: 5%;
   }
+
+  #steps .row>.left,
+  #steps .row>.central,
+  #steps .row>.right{
+    float: none;
+    width: 100%;
+    margin-bottom: 5%;
+    font-size: 30px;
+  }
+
+  
 
 }
