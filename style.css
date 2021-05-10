@@ -80,7 +80,6 @@ img {
   #lezioni .row>.right{
     float: none;
     margin: 0 25%;
-    font-size: 30px;
     margin-bottom: 5%;
   }
 
@@ -90,11 +89,15 @@ img {
     float: none;
     width: 100%;
     margin-bottom: 5%;
-    font-size: 30px;
   }
 
   .row{
     font-size: 30px;
+  }
+
+  #lezioni .row,
+  #why .row{
+    background-color: #F2F2CE;
   }
 
 }
